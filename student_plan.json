@@ -1,15 +1,15 @@
 {
-  "student_name": "",
-  "section": "",
-  "ai_tool": "",
+  "student_name": "Kate Ysabel Cam",
+  "section": "TN36",
+  "ai_tool": "ChatGPT",
   "entries": [
     {
       "use_case_id": "UC1",
-      "selected_resource_type": "",
-      "official_evidence_url": "",
-      "ai_recommendation_summary": "",
+      "selected_resource_type": "always-on-sandboxes",
+      "official_evidence_url": "https://developer.cisco.com/docs/sandbox/getting-started/#what-is-devnet-sandbox",
+      "ai_recommendation_summary": "The prompt suggests using the Always On Sandox as it meets the requirements of the use case where immidiate access is needed without provisioning for quick read-only API exploration.",
       "verification_status": "",
-      "rationale": ""
+      "rationale": "Always On Sanboxes allows immediate access without provisioning. It is a shared environment without needing reservation or setup time and restricts administrative access. This makes them usable for practicing non-admin API requests"
     },
     {
       "use_case_id": "UC2",

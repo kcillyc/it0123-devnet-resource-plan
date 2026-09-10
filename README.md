@@ -2,15 +2,26 @@
 
 ## Student and Project
 
-- Name:
-- Section:
+- Name: Kate Ysabel D. Cam
+- Section: TN36
 - Repository name: `it0123-devnet-resource-plan`
 
 ## Purpose
-
-Explain in 2-3 sentences why selecting the correct DevNet resource matters before beginning a network-automation task.
+Selecting the correct DevNet resource ensures that the decisions the developer makes meet the requirements for different uses. The use of DevNet resource greatly impacts security, efficiency, and the success of the deployment. Chosing the wrong DevNet resource will hinder the developer "
 
 ## Validated Resource Decisions
+Use Case 1: A student team needs immediate access to a shared Cisco environment to practice safe read-only API requests. Administrative changes are not required, and the team cannot wait for provisioning.
+
+    According to the official Cisco Developer Page, Always-On Sandboxes provide the instant access without provisions. With restricted administrative access, it meets the requirements of the use case.
+
+    https://developer.cisco.com/docs/sandbox/getting-started/#always-on-sandboxes
+
+Use Case 2:
+
+Use Case 3:
+
+Use Case 4
+
 
 Summarize your four selections from `student_plan.json`. For each use case, state the selected resource, the most important requirement, and the official Cisco evidence used.
 
@@ -31,5 +42,4 @@ Identify at least one AI recommendation that you accepted, rejected, or modified
 - Output of `git log --oneline`:
 
 ## AI-Use Disclosure
-
-State the AI tool used, the type of assistance received, what was independently checked, and what you revised.
+ChatGPT was used to assist in the completion of these requirement. Each answers have been validated thoroughly.
