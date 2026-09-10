@@ -21,11 +21,11 @@
     },
     {
       "use_case_id": "UC3",
-      "selected_resource_type": "",
-      "official_evidence_url": "",
-      "ai_recommendation_summary": "",
+      "selected_resource_type": "learning-lab",
+      "official_evidence_url": "https://developer.cisco.com/learning/",
+      "ai_recommendation_summary": "The AI assistant suggests the use of Learning Labs as the use case involves structured, step-by-step learning content for practicing API concepts.",
       "verification_status": "",
-      "rationale": ""
+      "rationale": "Learning Labs provide guided practice environments for beginners to learn API concepts before attempting independent activities."
     },
     {
       "use_case_id": "UC4",
