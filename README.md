@@ -36,22 +36,44 @@ Use Case 4: "A developer wants to examine community and Cisco-maintained code re
 
 
 ## AI Evaluation
-
-
-
-Identify at least one AI recommendation that you accepted, rejected, or modified. Explain the evidence behind your decision.
+All AI recommendations were accepted except for the Learning Labs and Code Exchange links as it only gave the home page. With this, I ended up navigating through the website to validate the information further and all suggestions matched  with the DevNet Resource information.
 
 ## Validation Evidence
 
 - Validator result:
-- Command used:
-- Official Cisco pages reviewed:
+    PASS: JSON file loaded
+    PASS: student and AI disclosure completed
+    PASS: all four scenario IDs present
+    PASS: resource classifications match scenario requirements
+    PASS: official Cisco evidence URLs supplied
+    PASS: AI verification statuses are valid
+    PASS: rationales are sufficiently detailed
+    PASS: AI recommendations are summarized in the student's own words
+    PASS: no credential-like fields detected
+
+    VALIDATION COMPLETE: 9/9 checks passed.
+
+- Command used: python validate_plan.py
+
+- Official Cisco pages reviewed: 
+    https://developer.cisco.com/docs/sandbox/getting-started/#always-on-sandboxes 
+    https://developer.cisco.com/docs/sandbox/getting-started/?utm_source=chatgpt.com#reservation-sandboxes
+    https://developer.cisco.com/learning/
+    https://developer.cisco.com/codeexchange/about/ 
 
 ## Git Evidence
 
-- Initial commit message:
-- Validation commit message:
+- Initial commit message: Initial Commit of README.md file
+- Validation commit message: Answers Validated 9/9
 - Output of `git log --oneline`:
+    3f7f015 (HEAD) Answers Validated 9/9
+    e0521b1 UC 4 Answered and corrections on UC 1 resource field
+    f67b4f3 Adding the right DevNet Link
+    f5605d4 UC 3 answered
+    29daf45 UC 2 answered
+    e71abfc UC 1 answered with references
+    d3f203a Blank Student JSON
+    672b9ad Initial Commit of README.md file
 
 ## AI-Use Disclosure
 ChatGPT was used to assist in the completion of these requirement. Each answers have been validated thoroughly.
