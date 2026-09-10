@@ -13,11 +13,11 @@
     },
     {
       "use_case_id": "UC2",
-      "selected_resource_type": "",
-      "official_evidence_url": "",
-      "ai_recommendation_summary": "",
+      "selected_resource_type": "reservation-sandbox",
+      "official_evidence_url": "https://developer.cisco.com/docs/sandbox/?utm_source=chatgpt.com",
+      "ai_recommendation_summary": "The AI assistant suggests the use of Reservation Sandbox as the use case requires a private environment and administrative access for testing configuration changes.",
       "verification_status": "",
-      "rationale": ""
+      "rationale": "Reservation Sandboxes are private access envrironments that require reservations. It provides administrative access to schedule access, use a VPN, and accept setup time."
     },
     {
       "use_case_id": "UC3",
