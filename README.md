@@ -18,21 +18,26 @@ Use Case 1: "A student team needs immediate access to a shared Cisco environment
 
 Use Case 2: "A development team must test configuration changes with administrative access in a private environment. The team can schedule access, use a VPN, and accept setup time."
 
-    According to the DevNet Resource website, Reservation Sandboxes are private access environments with Administrative Access. Here they have In-lab Automation Tools and custom setup automation for a team to use. The AI Assistant also provided the same suggestions.
+    According to the DevNet Resources website, Reservation Sandboxes are private access environments with Administrative Access. Here they have In-lab Automation Tools and custom setup automation for a team to use. The AI Assistant also provided the same suggestions.
 
     https://developer.cisco.com/docs/sandbox/getting-started/?utm_source=chatgpt.com#reservation-sandboxes
 
 Use Case 3: "A beginner needs structured, step-by-step learning content before attempting an independent API activity. The immediate goal is guided practice rather than access to administrative devices."
 
-    In the official Cisco Developer Page, Learning Labs provides interactive tutorials where developers can learn about processes through reading Modules and going on Learning Tracks. With this, a beginner can use these resources to learn differnt concepts before attempting an independent API activty. The AI assistant also provided the same suggestions
+    In the official Cisco Developer Page, Learning Labs provides interactive tutorials where developers can learn about processes through reading Modules and going on Learning Tracks. With this, a beginner can use these resources to learn differnt concepts before attempting an independent API activty. The AI assistant also provided the same suggestions. However, it provided me with the wrong link so I navigated to the Learning Labs website instead.
+
+    https://developer.cisco.com/learning/
 
 Use Case 4: "A developer wants to examine community and Cisco-maintained code repositories for an existing network-automation use case before designing a new solution."
 
+    According the DevNet Resources website, Cisco Code Exchange provides code examples and automation use cases in an online, curated set of code repositories. Developers can look through the website to explore code repositories to get ideas on their own solution. AI assistan provided the correct suggestion but also provided the incorrect link.
 
+    https://developer.cisco.com/codeexchange/about/ 
 
-Summarize your four selections from `student_plan.json`. For each use case, state the selected resource, the most important requirement, and the official Cisco evidence used.
 
 ## AI Evaluation
+
+
 
 Identify at least one AI recommendation that you accepted, rejected, or modified. Explain the evidence behind your decision.
 

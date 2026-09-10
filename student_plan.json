@@ -5,10 +5,10 @@
   "entries": [
     {
       "use_case_id": "UC1",
-      "selected_resource_type": "always-on-sandboxes",
+      "selected_resource_type": "always-on-sandbox",
       "official_evidence_url": "https://developer.cisco.com/docs/sandbox/getting-started/#what-is-devnet-sandbox",
       "ai_recommendation_summary": "The prompt suggests using the Always On Sandox as it meets the requirements of the use case where immidiate access is needed without provisioning for quick read-only API exploration.",
-      "verification_status": "",
+      "verification_status": "verified",
       "rationale": "Always On Sanboxes allows immediate access without provisioning. It is a shared environment without needing reservation or setup time and restricts administrative access. This makes them usable for practicing non-admin API requests"
     },
     {
@@ -16,7 +16,7 @@
       "selected_resource_type": "reservation-sandbox",
       "official_evidence_url": "https://developer.cisco.com/docs/sandbox/?utm_source=chatgpt.com",
       "ai_recommendation_summary": "The AI assistant suggests the use of Reservation Sandbox as the use case requires a private environment and administrative access for testing configuration changes.",
-      "verification_status": "",
+      "verification_status": "verified",
       "rationale": "Reservation Sandboxes are private access envrironments that require reservations. It provides administrative access to schedule access, use a VPN, and accept setup time."
     },
     {
@@ -24,16 +24,16 @@
       "selected_resource_type": "learning-lab",
       "official_evidence_url": "https://developer.cisco.com/learning/",
       "ai_recommendation_summary": "The AI assistant suggests the use of Learning Labs as the use case involves structured, step-by-step learning content for practicing API concepts.",
-      "verification_status": "",
+      "verification_status": "verified",
       "rationale": "Learning Labs provide guided practice environments for beginners to learn API concepts before attempting independent activities."
     },
     {
       "use_case_id": "UC4",
-      "selected_resource_type": "",
-      "official_evidence_url": "",
-      "ai_recommendation_summary": "",
-      "verification_status": "",
-      "rationale": ""
+      "selected_resource_type": "code-exchange",
+      "official_evidence_url": "https://developer.cisco.com/codeexchange/about/",
+      "ai_recommendation_summary": "The AI assistant suggests the use of Code Exchange as the use case involves sharing and collaborating on code snippets and solutions.",
+      "verification_status": "verified",
+      "rationale": "Code Exchange provides a platform for developers to share, discover, and collaborate on code snippets and solutions."
     }
   ]
 }
