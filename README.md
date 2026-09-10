@@ -24,7 +24,7 @@ Use Case 2: "A development team must test configuration changes with administrat
 
 Use Case 3: "A beginner needs structured, step-by-step learning content before attempting an independent API activity. The immediate goal is guided practice rather than access to administrative devices."
 
-
+    In the official Cisco Developer Page, Learning Labs provides interactive tutorials where developers can learn about processes through reading Modules and going on Learning Tracks. With this, a beginner can use these resources to learn differnt concepts before attempting an independent API activty. The AI assistant also provided the same suggestions
 
 Use Case 4: "A developer wants to examine community and Cisco-maintained code repositories for an existing network-automation use case before designing a new solution."
 
